@@ -1,0 +1,8 @@
+bin
+*.pyc
+yolov3.weights
+staticfiles
+
+# venv
+env
+venv
